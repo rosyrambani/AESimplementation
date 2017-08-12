@@ -1,0 +1,47 @@
+Plaintext: 0000 0000 0000 0000 0000 0000 0000 abcc
+Key: 1a0c 24f2 8754 93bc b708 0e43 930f 567c
+
+Output
+
+-------------------------------------------------------------------
+Round 1
+--------
+Key : 6d bd 55 2e ea e9 c6 92 5d e1 c8 d1 ce ee 9e ad
+Output : 1e 5e a8 8d 49 eb c9 c6 79 6c 87 1f b2 b0 31 c4
+Round 2
+--------
+Key : 47 b6 c0 a5 ad 5f 6 37 f0 be ce e6 3e 50 50 4b
+Output : 88 28 51 f5 b1 cb 1f 57 e5 27 d4 44 a5 6b c5 c
+Round 3
+--------
+Key : 10 e5 73 17 bd ba 75 20 4d 4 bb c6 73 54 eb 8d
+Output : 14 39 21 f0 72 94 2e e7 ef 10 49 ae 7b 71 e7 cd
+Round 4
+--------
+Key : 38 c 2e 31 85 b6 5b 11 c8 b2 e0 d7 bb e6 b 5a
+Output : 37 42 5c 5c e5 81 be e2 46 e6 38 c0 63 d9 22 60
+s
+Round 5
+--------
+Key : a6 27 90 db 23 91 cb ca eb 23 2b 1d 50 c5 20 47
+Output : 4a 7c 63 de 9 c5 c2 e0 d2 55 63 a7 dd 35 65 bc
+Round 6
+--------
+Key : 20 76 30 88 3 e7 fb 42 e8 c4 d0 5f b8 1 f0 18
+Output : f8 84 2 7e 4e cf bb ca 22 b1 26 2f cb 11 ee ac
+Round 7
+--------
+Key : 1c fa 9d e4 1f 1d 66 a6 f7 d9 b6 f9 4f d8 46 e1
+Output : b2 6d 8e ac 1b f0 82 55 e9 6b 6 24 a8 8e a4 ca
+Round 8
+--------
+Key : fd a0 65 60 e2 bd 3 c6 15 64 b5 3f 5a bc f3 de
+Output : 7 51 9c 32 fe a6 e9 23 e7 9f 9f fe 0 a1 86 93
+Round 9
+--------
+Key : 83 ad 78 de 61 10 7b 18 74 74 ce 27 2e c8 3d f9
+Output : 79 8a 4b d6 1d e9 f6 17 40 72 45 69 25 8b 65 fe
+Round 10
+--------
+Key : 5d 8a e1 2d 3c 9a 9a 35 48 ee 54 12 66 26 69 eb
+Output : f8 94 8f 96 98 9 d7 c3 41 d3 e7 e2 fb 58 2b 12
